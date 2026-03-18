@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunolessadev&show_icons=true&theme=dark">
+</p>
 
-<!--
-**brunolessadev/brunolessadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolessadev&layout=compact&theme=dark">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=brunolessadev&theme=dark">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-estudando-blue">
+  <img src="https://img.shields.io/badge/foco-desenvolvimento-green">
+  <img src="https://img.shields.io/badge/objetivo-estagio-orange">
+  <img src="ttps://komarev.com/ghpvc/?username=brunolessadev">
+</p>
