@@ -1,14 +1,4 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunolessadev&show_icons=true&theme=dark">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=brunolessadev&theme=dark">
-</p>
-
-
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolessadev&layout=compact&theme=dark">
 </p>
 
