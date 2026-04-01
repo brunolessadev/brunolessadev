@@ -6,7 +6,6 @@
 
 <div>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolessadev&layout=compact&theme=dark">
   
   <h3 align="center">Linguagens e ferramentas que já tive contato:</h3>
