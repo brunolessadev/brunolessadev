@@ -1,7 +1,7 @@
 <h1>Sobre Mim</h1>
 
 
-<p>Estudante de Engenharia de Software com os olhos voltados para o futuro da tecnologia. Tenho um grande interesse em como arquiteturas de sistemas e novas tecnologias podem ser usadas para inovar e otimizar a forma como interagimos com o mundo digital</p>
+<p>Estudante de Engenharia de Software com os olhos voltados para o futuro da tecnologia. Tenho um grande interesse em como arquiteturas de sistemas e novas tecnologias podem ser usadas para inovar e otimizar a forma como interagimos com o mundo digital.</p>
 
 
 
