@@ -31,8 +31,6 @@
   <img src="ttps://komarev.com/ghpvc/?username=brunolessadev">
 </p>
 
-<img src="https://raw.githubusercontent.com/brunolessadev/brunolessadev/output/snake.svg" alt="Snake animation" />
-
 
 
 
