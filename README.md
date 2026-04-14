@@ -4,8 +4,8 @@
 <p>Estudante de Engenharia de Software com os olhos voltados para o futuro da tecnologia. Tenho um grande interesse em como arquiteturas de sistemas e novas tecnologias podem ser usadas para inovar e otimizar a forma como interagimos com o mundo digital.</p>
 
 
-
-  <h3 align="center">Linguagens e ferramentas que já tive contato:</h3>
+<p>
+    <h3 align="center">Linguagens e ferramentas que já tive contato:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -21,6 +21,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-estudando-blue">
