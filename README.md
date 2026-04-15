@@ -1,6 +1,8 @@
-<h1>Sobre Mim</h1>
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background: transparent; border: none; border: none;">
+    <td colspan="3" align="center" style="padding-top: 20px; background: transparent; border: none;">
+        <h1 align="left">Sobre Mim</h1>
+      </td>
     <!-- TEXTO -->
     <tr>
       <td colspan="3" align="left" style="padding-bottom: 15px; background: transparent; border: none;" >
@@ -63,8 +65,18 @@
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
               <br><sub>VS</sub>
             </td>
-          </tr>
+          </tr>          
         </table>
+            <!-- PACMAN -->
+    <tr>
+      <td colspan="3" align="center" style="padding-top: 20px; background: transparent; border: none;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://pacman.abozanona.me/svg?username=brunolessadev&theme=github-dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://pacman.abozanona.me/svg?username=brunolessadev">
+          <img alt="pacman contribution graph" src="https://pacman.abozanona.me/svg?username=brunolessadev">
+        </picture>
+      </td>
+    </tr>
       </td>
     </tr>
   </table>
