@@ -19,7 +19,7 @@
       </td>
       <!-- GRÁFICO SEM FUNDO -->
       <td align="center" style="padding-right: 20px; background: transparent; border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunolessadev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&order=2&bg_color=00000000&title_color=58A6FF&text_color=8B949E" height="200" alt="languages graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunolessadev&locale=pt-br&layout=donut&card_width=320&langs_count=5&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" height="200" alt="top langs donut" />
       </td>
       <!-- FERRAMENTAS -->
       <td align="center" style="background: transparent; border: none;">
