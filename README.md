@@ -65,6 +65,13 @@
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
               <br><sub>VS</sub>
             </td>
+          </tr>
+          <!-- VITE ADICIONADO AQUI -->
+          <tr>
+            <td colspan="3" align="center" style="background: transparent; border: none; padding-top: 4px;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="vite logo" />
+              <br><sub>Vite</sub>
+            </td>
           </tr>          
         </table>
             <!-- PACMAN -->
