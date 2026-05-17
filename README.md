@@ -12,8 +12,8 @@
 </td>
 <td align="center" style="padding-right: 20px; background: transparent; border: none;">
 <img 
-            src="https://github-readme-stats-denvercoder1.vercel.app/api/top-langs?username=brunolessadev&amp;locale=pt-br&amp;layout=donut&amp;card_width=320&amp;langs_count=5&amp;hide=html,css,scss&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=8B949E" 
-            alt="Top Langs brunolessadev - DenverCoder1"
+            src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunolessadev&amp;locale=pt-br&amp;layout=donut&amp;card_width=320&amp;langs_count=5&amp;hide=html,css,scss&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=8B949E" 
+            alt="Top Langs brunolessadev - Fast"
             loading="lazy"
           >
 </td>
@@ -23,7 +23,7 @@
 <td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><br><sub>Java</sub></td>
 <td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><br><sub>JS</sub></td>
 <td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/><br><sub>TS</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/><br><sub>PHP</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/><br><sub>C#</sub></td>
 </tr>
 <tr>
 <td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><br><sub>HTML5</sub></td>
