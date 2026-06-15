@@ -12,7 +12,7 @@
 </td>
 <td align="center" style="padding-right: 20px; background: transparent; border: none;">
 <img 
-            src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunolessadev&amp;locale=pt-br&amp;layout=donut&amp;card_width=320&amp;langs_count=5&amp;hide=html,css,scss&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=8B949E" 
+            src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunolessadev&amp;locale=pt-br&amp;layout=donut&amp;card_width=320&amp;langs_count=5&amp;hide=html,css,batchfile,scss&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=8B949E" 
             alt="Top Langs brunolessadev - Fast"
             loading="lazy"
           >
