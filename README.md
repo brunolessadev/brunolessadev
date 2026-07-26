@@ -2,7 +2,7 @@
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background: transparent; border: none; border: none;">
 <td colspan="3" align="center" style="padding-top: 20px; background: transparent; border: none;"><h1 align="left">Sobre Mim</h1></td>
 <tr>
-<td colspan="3" align="left" style="padding-bottom: 15px; background: transparent; border: none;"><p>Estudante de Engenharia de Software com os olhos voltados para o futuro da tecnologia. Tenho um grande interesse em como arquiteturas de sistemas e novas tecnologias podem ser usadas para inovar e otimizar a forma como interagimos com o mundo digital.</p></td>
+<td colspan="3" align="left" style="padding-bottom: 15px; background: transparent; border: none;"><p>Estudante de Engenharia de Software com os olhos voltados para o futuro da tecnologia. Tenho um grande interesse em como arquiteturas de sistemas e novas tecnologias podem ser usadas para inovar e otimizar a forma como interagimos com o mundo digital</p></td>
 </tr>
 <tr valign="middle">
 <td align="left" style="padding-right: 20px; background: transparent; border: none;">
